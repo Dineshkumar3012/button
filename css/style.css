@@ -1,0 +1,99 @@
+
+#btna_container{
+	border:1px solid darkgrey;
+	padding:30px;
+	display:flex;
+	justify-content:space-evenly;
+}
+
+.btn_container{
+	padding:10px 10px;
+}
+
+.pri_btn{
+	padding: 10px 15px;
+    color: #fff;
+    background-color: blue;
+    border-radius: 5px;
+    border: none;
+}
+
+.sec_btn{
+	color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #6c757e;
+    border: none;
+}
+
+.suc_btn{
+	padding: 10px 15px;
+    color: #fff;
+    background-color: #158754;
+    border-radius: 5px;
+    border: none;
+}
+
+.dan_btn{
+	color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #d93545;
+    border: none;
+}
+
+.war_btn{
+	color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #fec203;
+    border: none;
+}
+
+.info_btn{
+	color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #06caea;
+    border: none;
+}
+
+.light_btn{
+	color: #676769;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #f8f9fa;
+    border: none;
+}
+
+.dark_btn{
+	color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #1f2528;
+    border: none;
+}
+
+.link_btn{
+	padding:10px 15px;
+}
+
+
+.btn_a{
+	border: none;
+    background-color: #fff;
+    text-decoration: underline;
+    cursor: pointer;
+    color: #00e;
+}
+
+.a_btn{
+	text-decoration: none;
+    cursor: default;
+    color: #000;
+    border: 1px solid;
+    border-radius: 5px;
+    padding: 6px 15px;
+    background-color: #e9e9e5;
+	/* background-color:transparent; */
+}
